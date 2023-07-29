@@ -6,7 +6,7 @@
 ## 취약점 검사 실험 및 실험환경
 - OS : Windows Server 2016
 - batch file
-- service : SNMP (UDP : 161)
+- service : SMTP
 
 ## 기준 
 - 불필요한 SMTP서비스가 비활성화되어 있는 경우 양호 
