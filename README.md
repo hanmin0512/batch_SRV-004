@@ -1,4 +1,4 @@
-# batch_SRV_004
+# batch_SRV-004
 ## [SRV-004]
 - 불필요한 SMTP 서비스 실행 검사
 
